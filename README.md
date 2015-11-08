@@ -1,1 +1,1 @@
-# exercises
+# various exercises
